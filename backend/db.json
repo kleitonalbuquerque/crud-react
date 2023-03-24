@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mariana Oliveria de Albuquerque",
+      "email": "marianaolivalb@mail.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Ronaldinho Gaúcho",
+      "email": "ronaldgaucho@mail.com.br"
+    }
+  ]
+}
