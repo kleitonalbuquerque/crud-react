@@ -9,6 +9,11 @@
       "id": 2,
       "name": "Ronaldinho Gaúcho",
       "email": "ronaldgaucho@mail.com.br"
+    },
+    {
+      "name": "Maria Silva",
+      "email": "mariasilva@negocio.com.br",
+      "id": 3
     }
   ]
 }
